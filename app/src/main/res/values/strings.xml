@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SQLite Tutorial</string>
+    <string name="title">SQLite Tutorial - User Management</string>
+    <string name="Add"> ADD</string>
+    <string name="Delete"> DELETE</string>
+    <string name="ShowAll">SHOW ALL</string>
+    <string name="User"> UserName </string>
+    <string name="UserName"> Name </string>
+    <string name="UserAge"> Age </string>
+    <string name="UserAddTotal">Fetched %1$d Users</string>
+    <string name="UserAdd">UserName :  %1$s</string>
+    <string name="UserNameAdd">Name :  %1$s</string>
+    <string name="UserAgeAdd">Age :  %1$d</string>
+    <string name="hello_blank_fragment"> Seguro desea eliminar este usuario?</string>
+    <string name="Userdelete"> %1$s</string>
+    <string name="Aceptar"> Aceptar</string>
+    <string name="Cancelar">Cancelar</string>
+</resources>
